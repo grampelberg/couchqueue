@@ -1,0 +1,4 @@
+{
+    "name": "CouchQueue",
+    "description": "A CouchApp that converts CouchDB into a full featured message queue"
+}
